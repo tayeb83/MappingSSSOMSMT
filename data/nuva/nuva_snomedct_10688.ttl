@@ -1,0 +1,1591 @@
+@prefix semapv: <https://w3id.org/semapv/vocab/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix align: <http://knowledgeweb.semanticweb.org/heterogeneity/alignment#> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0945_to_836401009>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0945_836401009" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836401009" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0945" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836401009> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0945> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0600_to_1051000221104>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0600_1051000221104" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1051000221104" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0600" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1051000221104> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0600> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0832_to_836495005>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0832_836495005" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836495005" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0832" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836495005> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0832> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0147_to_871772009>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0147_871772009" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871772009" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0147" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871772009> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0147> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0102_to_836375003>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0102_836375003" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836375003" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0102" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836375003> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0102> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0648_to_1162643001>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0648_1162643001" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1162643001" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0648" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1162643001> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0648> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0111_to_836385002>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0111_836385002" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836385002" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0111" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836385002> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0111> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0151_to_871871008>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0151_871871008" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871871008" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0151" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871871008> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0151> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0145_to_836403007>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0145_836403007" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836403007" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0145" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836403007> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0145> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0112_to_836390004>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0112_836390004" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836390004" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0112" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836390004> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0112> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0150_to_871866001>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0150_871866001" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871866001" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0150" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871866001> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0150> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0157_to_836398006>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0157_836398006" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836398006" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0157" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836398006> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0157> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0111_to_1121000221106>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0111_1121000221106" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1121000221106" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0111" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1121000221106> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0111> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0101_to_836374004>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0101_836374004" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836374004" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0101" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836374004> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0101> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0648_to_1157024006>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0648_1157024006" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1157024006" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0648" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1157024006> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0648> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0131_to_1131000221109>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0131_1131000221109" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1131000221109" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0131" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1131000221109> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0131> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0132_to_1101000221104>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0132_1101000221104" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1101000221104" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0132" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1101000221104> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0132> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0553_to_871839001>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0553_871839001" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871839001" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0553" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871839001> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0553> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0270_to_871740006>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0270_871740006" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871740006" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0270" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871740006> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0270> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0825_to_871803007>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0825_871803007" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871803007" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0825" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871803007> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0825> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0136_to_774618008>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0136_774618008" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "774618008" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0136" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/774618008> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0136> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0643_to_871873006>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0643_871873006" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871873006" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0643" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871873006> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0643> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0648_to_1119305005>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0648_1119305005" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1119305005" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0648" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1119305005> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0648> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0132_to_863911006>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0132_863911006" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "863911006" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0132" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/863911006> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0132> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0655_to_836381006>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0655_836381006" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836381006" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0655" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836381006> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0655> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0324_to_1052328007>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0324_1052328007" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1052328007" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0324" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1052328007> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0324> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0512_to_37146000>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0512_37146000" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "37146000" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0512" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/37146000> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0512> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0382_to_871826000>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0382_871826000" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871826000" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0382" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871826000> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0382> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0088_to_871837004>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0088_871837004" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871837004" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0088" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871837004> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0088> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0937_to_409568008>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0937_409568008" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "409568008" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0937" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/409568008> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0937> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0827_to_871908002>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0827_871908002" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871908002" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0827" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871908002> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0827> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0153_to_871737006>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0153_871737006" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871737006" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0153" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871737006> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0153> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0153_to_871738001>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0153_871738001" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871738001" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0153" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871738001> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0153> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0112_to_428601009>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0112_428601009" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "428601009" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0112" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/428601009> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0112> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct>
+        a       <http://w3id.org/sssom/MappingSet> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://purl.org/dc/terms/license>
+                "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/legalcode" ;
+        <http://w3id.org/sssom/mapping_set_id>
+                "mapping_ncbi_sms" ;
+        <http://w3id.org/sssom/object_source>
+                <http://esante.gouv.fr/terminologie-snomed-ct> ;
+        <http://w3id.org/sssom/subject_source>
+                <http://esante.gouv.fr/terminologie-nuva> ;
+        <http://www.w3.org/2002/07/owl#versionInfo>
+                "1.0" .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0791_to_871895005>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0791_871895005" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871895005" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0791" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871895005> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0791> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0158_to_836387005>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0158_836387005" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836387005" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0158" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836387005> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0158> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0110_to_1181000221105>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0110_1181000221105" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1181000221105" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0110" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1181000221105> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0110> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0512_to_871918007>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0512_871918007" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871918007" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0512" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871918007> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0512> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0134_to_836402002>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0134_836402002" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836402002" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0134" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836402002> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0134> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0601_to_871875004>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0601_871875004" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871875004" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0601" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871875004> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0601> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0110_to_836377006>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0110_836377006" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836377006" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0110" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836377006> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0110> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0132_to_777725002>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0132_777725002" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "777725002" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0132" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/777725002> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0132> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0648_to_1119349007>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0648_1119349007" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1119349007" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0648" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1119349007> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0648> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0880_to_871887006>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0880_871887006" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871887006" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0880" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871887006> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0880> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0382_to_775641005>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0382_775641005" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "775641005" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0382" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/775641005> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0382> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0159_to_2221000221107>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0159_2221000221107" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "2221000221107" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0159" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/2221000221107> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0159> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0801_to_871806004>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0801_871806004" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871806004" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0801" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871806004> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0801> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0796_to_871759008>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0796_871759008" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871759008" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0796" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871759008> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0796> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0158_to_1081000221109>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0158_1081000221109" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1081000221109" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0158" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1081000221109> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0158> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0896_to_836397001>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0896_836397001" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836397001" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0896" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836397001> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0896> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0114_to_836382004>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0114_836382004" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836382004" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0114" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836382004> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0114> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0812_to_840549009>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0812_840549009" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "840549009" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0812" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/840549009> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0812> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0130_to_871831003>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0130_871831003" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871831003" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0130" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871831003> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0130> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0997_to_1119254000>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0997_1119254000" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1119254000" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0997" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1119254000> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0997> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0797_to_871876003>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0797_871876003" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871876003" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0797" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871876003> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0797> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0798_to_836500008>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0798_836500008" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836500008" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0798" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836500008> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0798> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0131_to_836393002>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0131_836393002" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836393002" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0131" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836393002> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0131> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0135_to_1031000221108>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0135_1031000221108" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1031000221108" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0135" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1031000221108> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0135> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0153_to_836498007>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0153_836498007" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836498007" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0153" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836498007> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0153> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0138_to_871878002>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0138_871878002" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871878002" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0138" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871878002> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0138> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0795_to_601000221108>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0795_601000221108" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "601000221108" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0795" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/601000221108> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0795> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0143_to_836380007>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0143_836380007" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836380007" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0143" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836380007> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0143> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0133_to_836389008>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0133_836389008" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836389008" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0133" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836389008> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0133> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0156_to_836379009>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0156_836379009" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836379009" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0156" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836379009> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0156> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0804_to_836384003>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0804_836384003" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836384003" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0804" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836384003> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0804> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0811_to_1981000221108>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0811_1981000221108" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1981000221108" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0811" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1981000221108> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0811> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0814_to_1801000221105>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0814_1801000221105" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "1801000221105" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0814" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/1801000221105> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0814> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0648_to_29061000087103>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0648_29061000087103" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "29061000087103" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0648" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/29061000087103> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0648> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0144_to_836383009>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0144_836383009" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836383009" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0144" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836383009> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0144> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0113_to_836388000>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0113_836388000" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836388000" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0113" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836388000> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0113> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0921_to_836378001>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0921_836378001" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "836378001" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0921" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/836378001> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0921> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0114_to_871765008>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0114_871765008" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871765008" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0114" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871765008> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0114> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0712_to_871804001>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0712_871804001" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "871804001" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0712" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/871804001> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0712> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0816_to_971000221109>
+        a       <http://w3id.org/sssom/Mapping> , <http://www.w3.org/2002/07/owl#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0816_971000221109" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "971000221109" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0816" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/971000221109> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0816> .
+
+<http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct/vac0648_to_28531000087107>
+        a       <http://www.w3.org/2002/07/owl#Class> , <http://w3id.org/sssom/Mapping> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "correspondance: VAC0648_28531000087107" ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                <http://data.esante.gouv.fr/alignement/alignement_nuva_snomed-ct> ;
+        <http://data.esante.gouv.fr/mapping#method>
+                "Manuel" ;
+        <http://data.esante.gouv.fr/mapping#object_code>
+                "28531000087107" ;
+        <http://data.esante.gouv.fr/mapping#subject_code>
+                "VAC0648" ;
+        <http://data.esante.gouv.fr/mapping#validationStatus>
+                "Validé" ;
+        <http://w3id.org/sssom/object_id>
+                <http://snomed.info/id/28531000087107> ;
+        <http://w3id.org/sssom/predicate_id>
+                skos:exactMatch ;
+        <http://w3id.org/sssom/subject_id>
+                <http://data.esante.gouv.fr/NUVA#VAC0648> .
